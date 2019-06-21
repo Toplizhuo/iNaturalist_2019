@@ -1,5 +1,5 @@
 # **iNaturalist 2019 Challenge Competition**
-These code built for the Competition of iNaturalist 2019 at FGVC6
+These codes built for the Competition of iNaturalist 2019 at FGVC6
 
 ## **DATASET DESCRIPTION**
 
